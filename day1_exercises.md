@@ -1,5 +1,5 @@
 1. On a website, what is the purpose of HTML code?
-HTML code provides the structure of a website.  For example, it categorizes headings/subheadings, paragraphs/text/styles, lists and images on a page.  The HTML acronym means HyperText Markup Language.  The HyperText part allows you to create links, so users can move between pages.  The Markup piece allows you to annotate text, and add additional info.  The tags HTML code uses is the markup. 
+HTML code provides the structure of a website.  For example, it categorizes headings/subheadings, paragraphs/text/styles, lists and images on a page.  The HTML acronym means HyperText Markup Language.  The HyperText part allows you to create links, so users can move between pages.  The Markup piece allows you to annotate text, and add additional info.  The tags HTML code uses is the markup.
 1. What is the difference between an element and a tag?
 HTML code is written using tags with angled brackets.  Elements usually contain and opening and a closing tag.  The type of tag describes what the information between the tags should do.  The opening tag contains the angled brackets <> and the closing tag includes a forward slash </>.
 1. Why do we use attributes in HTML elements?
@@ -11,3 +11,5 @@ The <head> tag is used to describe information about the page, but will not show
 1. What are empty elements?
 1. What is semantic markup?
 1. What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
+#CodePen sample
+#https://codepen.io/logkatwya3/pen/oNqNwdK
